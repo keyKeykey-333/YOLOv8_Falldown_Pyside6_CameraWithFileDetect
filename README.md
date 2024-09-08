@@ -1,4 +1,4 @@
-# python demo.py可以启动
+# python demo.py  运行代码，请自己手动在ui界面选择falldown.pt，是否使用cuda等等。
 # 演示视频： https://www.bilibili.com/video/BV15gHgeYE7H/?share_source=copy_web&vd_source=6e0db372e73125502ddb8ede3f4e9d9a
 
 python3.8
