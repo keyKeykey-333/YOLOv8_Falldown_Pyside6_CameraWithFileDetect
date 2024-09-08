@@ -1,5 +1,4 @@
-# YOLOv8-Falldown-Pyside6_CameraWithFileDetect
-YOLOv8摔倒检测,  Pyside6的GUI,  手动选择使用摄像头或者是选择文件进行检测. 请看VCR----
+# python demo.py可以启动
 # 演示视频： https://www.bilibili.com/video/BV15gHgeYE7H/?share_source=copy_web&vd_source=6e0db372e73125502ddb8ede3f4e9d9a
 
 python3.8
