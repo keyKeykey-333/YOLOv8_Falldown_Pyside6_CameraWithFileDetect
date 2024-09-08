@@ -5,4 +5,6 @@ YOLOv8摔倒检测,  Pyside6的GUI,  手动选择使用摄像头或者是选择�
 ## opencv-python安装4.10.0的，更低的版本应该ok
 ## 如果没有cuda，则pytorch版本不要选择使用cuda的版本，请选择cpu的版本
 
+# 演示视频： https://www.bilibili.com/video/BV15gHgeYE7H/?share_source=copy_web&vd_source=6e0db372e73125502ddb8ede3f4e9d9a
+
 
