@@ -1,0 +1,11 @@
+ultralytics
+
+#pytorch==2.4.0
+#opencv-python==4.10.0.84
+#torchvision==0.9.0
+pyside6==6.6.3.1
+
+pandas==2.0.3
+
+pillow==10.4.0
+
